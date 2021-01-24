@@ -1,0 +1,28 @@
+{
+  "name": "rsk.academy-lessons",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Lessons for RSK Academy - By Sol - Solange Gueiros",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "smart contracts",
+    "ethereum",
+    "truffle",
+    "truffle box",
+    "geth",
+    "solidity"
+  ],
+  "author": "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)",
+  "license": "MIT",  
+  "bugs": {
+    "url": "https://github.com/solangegueiros/rsk.academy-lessons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solangegueiros/rsk.academy-lessons.git"
+  },  
+  "homepage": "https://github.com/solangegueiros/rsk.academy-lessons#readme"
+}
