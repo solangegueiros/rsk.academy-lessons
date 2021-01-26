@@ -22,8 +22,11 @@ At later stages in the curriculum you will learn how to port your programming kn
 
 Be sure to join our Slack channel and join in the discussion with the IOVLabs community!
 
+?> TODO: LINK
+
 
 # References
+
 https://docs.soliditylang.org/
 
 https://eth.wiki/

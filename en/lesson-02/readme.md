@@ -5,16 +5,16 @@ In this lesson you'll learn you step-by-step how to use Remix, which is a tool t
 ## Overview
 
 1. Introduction to smart contracts;
-2. [Remix - basics](remix-intro.md)
-3. [Create a smart contract](remix-create.md);
+2. [Remix - basics](en/lesson-02/remix-intro.md)
+3. [Create a smart contract](en/lesson-02/remix-create.md);
 4. Smart contract name: overview;
-5. [Compile a smart contract](remix-compile.md);
+5. [Compile a smart contract](en/lesson-02/remix-compile.md);
 6.  Deploy the smart contract on the JavascriptVM;
 7.  Interact with the smart contract on the JavascriptVM;
 8.  Web3Injected - connect to RSK Testnet;
 9.  Publish on RSK Testnet;
 10. Interact with the smart contract on RSK Testnet;
-11. [Subscribe to RSK Academy](name-subscribe.md);
+11. [Subscribe to RSK Academy](en/lesson-02/name-subscribe.md);
 
 Your first smart contract will have your name saved in Blockchain!
 
